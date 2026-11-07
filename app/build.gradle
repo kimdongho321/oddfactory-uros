@@ -1,0 +1,10 @@
+plugins { id 'com.android.application' }
+android {
+ namespace 'com.oddfactory.uros'
+ compileSdk 35
+ defaultConfig { applicationId 'com.oddfactory.uros'; minSdk 30; targetSdk 35; versionCode 20; versionName '2.2.6' }
+ compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+ buildTypes { release { debuggable false; crunchPngs false; minifyEnabled true; shrinkResources true; proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'),'proguard-rules.pro' } }
+ lint { abortOnError true;checkReleaseBuilds true }
+}
+

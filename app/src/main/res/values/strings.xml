@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">우로롱 밝기 · 우로스 볼륨</string>
+  <string name="service_name">우로스 밝기·볼륨 조작</string>
+  <string name="service_description">화면 왼쪽 우로롱을 위아래로 끌어 밝기를 조절하고, 오른쪽 우로스로 미디어 볼륨을 조절합니다. 접근성은 작은 조작 창 두 개를 표시하는 데 사용합니다. 다른 앱의 화면 내용이나 스크롤을 읽지 않습니다. 앱에서 정지할 수 있습니다.</string>
+  <string name="title">우로롱 밝기 · 우로스 볼륨</string>
+  <string name="subtitle">왼쪽 우로롱은 밝기, 오른쪽 우로스는 볼륨을 맡아요.</string>
+  <string name="quick_help">바로 위아래로 끌기 · 밝기와 볼륨 조절\n두 번 톡 · 대기/깨우기\n세 번 톡 · 종료·설정 메뉴\n길게 누른 뒤 끌기 · 위치 이동</string>
+  <string name="more">더보기 · 설정과 사용법</string>
+  <string name="less">접기 · 설정과 사용법</string>
+  <string name="reset_position">옮긴 위치를 기본 배치로</string>
+  <string name="font_notice">메이플스토리 제공 서체 적용 · © NEXON Korea\n서체 이용 안내는 패키지에 포함되어 있습니다.</string>
+  <string name="privacy">캐릭터를 누른 채 움직일 때만 값을 바꿉니다. 다른 앱의 화면 글자·입력·스크롤을 읽거나 저장하지 않습니다.</string>
+  <string name="start">실행</string>
+  <string name="stop">정지</string>
+  <string name="accessibility">접근성 설정 열기</string>
+  <string name="accessibility_help">이미 켜 둔 접근성 연결은 그대로 사용합니다. 꺼져 있을 때만 우로스 밝기·볼륨 조작을 켜 주세요.</string>
+  <string name="status_off">정지됨</string>
+  <string name="status_running">좌측 밝기 · 우측 미디어 볼륨 실행 중</string>
+  <string name="status_disabled">접근성 연결이 꺼져 있습니다</string>
+  <string name="status_waiting">서비스 연결을 기다리는 중</string>
+  <string name="status_failed">그림을 불러오지 못했습니다. 앱을 다시 실행해 주세요.</string>
+  <string name="status_window_failed">오버레이를 열지 못했습니다. 접근성 연결 후 다시 시작해 주세요.</string>
+  <string name="size">기본 캐릭터 높이 · %1$d dp</string>
+  <string name="response_screens">늘어나는 속도 · 최소 %1$d화면 이동</string>
+  <string name="response_help">숫자가 클수록 천천히 늘어나요. 전체 스크롤 길이를 받으면 그 길이도 반영해요. 화면을 바꿔도 현재 길이는 유지하며, 위로 움직인 만큼 늘고 아래로 움직인 만큼 줄어요.</string>
+  <string name="horizontal">가로 위치 · %1$d%%</string>
+  <string name="vertical">세로 위치 · %1$d%%</string>
+  <string name="reset">크기 초기화</string>
+  <string name="bounds_help">기본 위치는 좌측 중단과 우측 중단입니다. 최대 길이는 기본 키의100~240%로 조절할 수 있어요. 화면 위로 벗어나는 길이는 안전영역에 맞춰 제한합니다.</string>
+  <string name="settings_unavailable">이 기기에서 접근성 설정 화면을 열 수 없습니다.</string>
+  <string name="brightness_permission">밝기 변경 허용</string>
+  <string name="brightness_help">밝기 조작에는 시스템 설정 변경 허용이 필요합니다. 우로롱을 움직이면 자동 밝기 대신 직접 고른 밝기를 사용합니다.</string>
+  <string name="max_length">최대 길이 · 기본의 %1$d%%</string>
+  <string name="control_position">발·꼬리 끝 위치 · 위에서 %1$d%%</string>
+</resources>
